@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jtrejo20
-- 👀 I’m interested in managing Software Development, Web Development,  exercising, and dieting & weight loss
-- 🌱 I’m currently learning the MERN stack to build my own portfolio website
-- 💞️ I’m looking to collaborate on documenting errors and bugs
+- 👀 I’m interested in Test-Driven Development, Fuzzing, and Software Security
+- 🌱 I’m currently learning the Test-Driven Development to improve my Software Development process
+- 💞️ I’m looking to receive feedback on my repositories to learn more about Software Development.
 - 📫 You can reach me by my email: jtrejo5545@gmail.com
